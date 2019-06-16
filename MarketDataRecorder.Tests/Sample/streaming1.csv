@@ -1,0 +1,2 @@
+microtimestamp,amount,buy_order_id,sell_order_id,amount_str,price_str,price,type,id,currency_pair
+1560716297450163,0.05362535,3527818724,3527818442,0.05362535,8835.56,8835.56,0,90777886,btcusd
